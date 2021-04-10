@@ -1,0 +1,9 @@
+Election Results
+-------------------------
+The total number of votes is: 1048575
+-------------------------
+Marsh: 64.0% (674717)
+Queen: 20.0% (207678)
+Bamoo: 10.0% (103687)
+Trandee: 3.0% (31187)
+Raffah: 3.0% (31306)
